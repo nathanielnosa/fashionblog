@@ -110,8 +110,10 @@
     .navbar .navbar-nav .nav-link{
         padding: .7rem 0rem;
     }
+    
+}
+@media(max-width:600px){
     .carousel-inner .carousel-item img{
         height: 20vh;
-    }
-    
+    }  
 }
