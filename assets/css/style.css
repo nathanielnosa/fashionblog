@@ -114,6 +114,6 @@
 }
 @media(max-width:600px){
     .carousel-inner .carousel-item img{
-        height: 20vh;
+        height: 35vh;
     }  
 }
